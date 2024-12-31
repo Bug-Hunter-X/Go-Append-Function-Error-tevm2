@@ -1,0 +1,2 @@
+# Go Append Function Error
+This repository contains a Go program demonstrating a common error when using the `append` function. The error occurs because the append function is used incorrectly with the wrong data type.
